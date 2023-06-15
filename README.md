@@ -18,9 +18,9 @@
 
 </center>
 
-<a  href="https://imgbb.com/"><img  src="https://i.ibb.co/LRbGY2V/linkedin-large.png"  alt="linkedin-large"
 
-border="0"></a>
+![The San Juan Mountains are beautiful!](https://i.ibb.co/LRbGY2V/linkedin-large.png)
+
 
 </body>
 
