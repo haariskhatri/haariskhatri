@@ -1,18 +1,29 @@
-### Hi there 👋
+<html>
 
-<!--
-**haariskhatri/haariskhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
+<head>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<link  rel="stylesheet"  href="./haaris.css">
 
-<h1>Hello</h1>
+</head>
+
+  
+
+<body>
+
+<center>
+
+<h1>Hi guys , :wave: </h1>
+
+</center>
+
+<a  href="https://imgbb.com/"><img  src="https://i.ibb.co/LRbGY2V/linkedin-large.png"  alt="linkedin-large"
+
+border="0"></a>
+
+</body>
+
+  
+
+</html>
