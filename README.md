@@ -1,29 +1,14 @@
-<html>
 
-  
+  ######
+## <center> Hello guys :wave:
 
-<head>
+##### <center> Welcome to my page !
+####
+<center> <em> I'm Haaris </em></center>
+<center> <em> Working as a Blockchain Intern at Minddeft Technologies  </em></center>
+<center> <em> Open to collaborating on interesting and innovative projects. </em></center>
 
-<link  rel="stylesheet"  href="./haaris.css">
-
-</head>
-
-  
-
-<body>
-
-<center>
-
-<h1>Hi guys , :wave: </h1>
-
-</center>
+###
 
 
-![The San Juan Mountains are beautiful!](https://i.ibb.co/LRbGY2V/linkedin-large.png)
 
-
-</body>
-
-  
-
-</html>
